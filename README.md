@@ -1,3 +1,5 @@
 # Risk-Averse-Calibration
 
-Codes will be published soon ... please contact shayank@seas.upenn.edu if you're interested to use the method at the moment.
+Here we provide a step by step implementation of RAC. There are two notebooks, each of which corresponds to one of the experiment setups in our paper. The notebooks are self contained. Please send you questions to: shayank@seas.upenn.edu
+
+Link to the paper: https://arxiv.org/abs/2502.02561
